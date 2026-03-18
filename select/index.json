@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "宇宙（そら）に咲く",
+  "base_artist": "コミネリサ",
+  "createdAt": "2026-03-18T12:54:04.137534Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙に咲く",
+      "artist": "コミネリサ",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙に咲く_コミネリサ.txt"
+    }
+  ]
+}
